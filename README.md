@@ -1,2 +1,2 @@
-# University_notes
-appunti università
+# Programmazione di sistemi (NON) Embedded e Multicore
+programmazione parallela in MPI, CUDA, PThreads e OpenMP
